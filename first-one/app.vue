@@ -1,6 +1,7 @@
 <template>
   <div>
     <NuxtLayout>
+      <Header />
       <header>
         <ul>
           <li>

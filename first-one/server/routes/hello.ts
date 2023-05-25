@@ -1,0 +1,1 @@
+export default defineEventHandler(() => "Hello World from server/routes");
